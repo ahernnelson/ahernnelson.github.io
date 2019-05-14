@@ -1,1 +1,1 @@
-www.ahernnelson.github.io
+ahernnelson.github.io
